@@ -1,0 +1,19 @@
+{
+    "name": "magement/magento-2-connector",
+    "description": "Magement Magento 2 connector",
+    "type": "magement-connector",
+    "authors": [
+        {
+            "name": "MediaCT B.V.",
+            "email": "contact@mediact.nl"
+        },
+        {
+            "name": "Harits Rahman Mazayamusthafa",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "magement/connector-installer": "6.0"
+    }
+}
